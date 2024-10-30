@@ -1,0 +1,9 @@
+isolated web with its own browser
+colony simulation game
+human civilization game with multiple civilizations (simulation)
+virtual machine with its own low and higher level languages
+a gui game inside that vm
+terminal emulator (with its own way of getting user input thats more "modern")
+tui library/framework (like ratatui/anathema)
+gui library/framework (like ratatui/anathema but gui)
+3D game
